@@ -5,6 +5,9 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="SPORTS",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg" group-title="SPORTS",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="SPORTS",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
