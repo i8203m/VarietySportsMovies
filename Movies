@@ -42,6 +42,9 @@ http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/ChowKL1_%28cropped%29.JPG" group-title="Movies - 电影、剧集",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="Movies - 电影、剧集",中文剧集 01
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Movies - 电影、剧集",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
