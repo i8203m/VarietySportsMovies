@@ -1,80 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/SEc9xa7" group-title="SPORTS", Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEc9xa7.png" group-title="SPORTS", Sky Sports Main Event
 https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g2/maineventss.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/zs7djX9" group-title="SPORTS", Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zs7djX9.png" group-title="SPORTS", Sky Sports Premier League
 https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g3/sspl.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nv89giH.jpg" group-title="SPORTS", ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/6nU6n7r" group-title="SPORTS", BT Sport ESPN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nU6n7r.png" group-title="SPORTS", BT Sport ESPN 
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/S1wPph3" group-title="SPORTS", BT Sport 1 (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 1 (UK)
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g2/btuk1.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/S1wPph3" group-title="SPORTS", BT Sport 2 (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 2 (UK)
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g3/ukbt2sport.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/S1wPph3" group-title="SPORTS", BT Sport 3 (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 3 (UK)
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g6/3btsporteu.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uPziKRD" group-title="SPORTS", Eurosport 1  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 1  
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uPziKRD" group-title="SPORTS", Eurosport 2 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 2 HD 
 http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uPziKRD" group-title="SPORTS", Eurosport 1 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 1 HD 
 http://188.35.9.14:21081/udp/098t 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/6ATHszM" group-title="SPORTS", All Sports TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ATHszM.jpg" group-title="SPORTS", All Sports TV 
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w809987188.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ifc4hb9" group-title="SPORTS",MLB Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifc4hb9.jpg" group-title="SPORTS",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yTDJm61" group-title="SPORTS",Extreme Sports 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTDJm61.png" group-title="SPORTS",Extreme Sports 
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/144/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="SPORTS",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ukPntzj" group-title="SPORTS",Setanta Qazaqstan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukPntzj.jpg" group-title="SPORTS",Setanta Qazaqstan
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g5/setqz.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OOMdggu" group-title="SPORTS", Setanta Sports (Ukraine)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOMdggu.jpg" group-title="SPORTS", Setanta Sports (Ukraine)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/272/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yhQWFRX" group-title="SPORTS", Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhQWFRX.png" group-title="SPORTS", Setanta Sports 1 HD
 http://92.43.140.249/s81/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yhQWFRX" group-title="SPORTS", Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhQWFRX.png" group-title="SPORTS", Setanta Sports 2 HD
 http://92.43.140.249/s82/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ovFA3Zf" group-title="SPORTS", Super Tennis 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovFA3Zf.jpg" group-title="SPORTS", Super Tennis 
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g5/itsupertennis.m3u
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9eLgFEk" group-title="SPORTS", CANAL+ Sport HD  (Poland)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9eLgFEk.png" group-title="SPORTS", CANAL+ Sport HD  (Poland)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/801/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9eLgFEk" group-title="SPORTS", CANAL+ Sport3 HD (Poland)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9eLgFEk.png" group-title="SPORTS", CANAL+ Sport3 HD (Poland)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/802/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9eLgFEk" group-title="SPORTS", CANAL+ Sport4 HD (Poland)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9eLgFEk.png" group-title="SPORTS", CANAL+ Sport4 HD (Poland)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/803/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KCZMQZn" group-title="SPORTS", Bein Sports 1 HD (Qatar)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 1 HD (Qatar)
 https://goool7.ws/lba/YjcwZjRjNzg5MWIwMTg1MzRhMTA1M2MzZTk3OTYxYzQ=/g5/beinsport1tur.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KCZMQZn" group-title="SPORTS", Bein Sports 2 HD (Qatar) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 2 HD (Qatar) 
 https://mmm.sportbox.ws/lba/OGE4NDQ4MGUyYWI4YTdlYTgwYTgwMDBhZDJhNjgxMzc=/g4/turbein2sport.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KCZMQZn" group-title="SPORTS", Bein Sports 3 HD (Qatar)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 3 HD (Qatar)
 https://goool7.ws/lba/YjcwZjRjNzg5MWIwMTg1MzRhMTA1M2MzZTk3OTYxYzQ=/g5/beinsport1tur.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/cZREYna" group-title="SPORTS", M. Deportes HD (Spain)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZREYna.png" group-title="SPORTS", M. Deportes HD (Spain)
 http://188.35.9.14:21031/udp/106z
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9BMFYyZ" group-title="SPORTS", TVP SPORT HD (Poland)
