@@ -83,8 +83,32 @@ http://188.35.9.14:21161/udp/169v
 #EXTINF:-1 tvg-logo="https://imgur.com/DSehEpl" group-title="SPORTS", Sportklub HD (Croatia)
 http://188.35.9.14:21161/udp/170z
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS"
+#EXTINF:-1 tvg-logo="https://imgur.com/SQdRdJ1" group-title="SPORTS", Xsport (Ukraine) 
+http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/996/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/TCuT8zw" group-title="SPORTS", Belarus Channel 5 HD 
+http://178.124.183.12/hls/JRKVSUPCP8/bw5000000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iYkkODX" group-title="SPORTS", Qazsport Казспорт 
+https://mmm.sportbox.ws/lba/OGE4NDQ4MGUyYWI4YTdlYTgwYTgwMDBhZDJhNjgxMzc=/g4/qazsportkz.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/T8rNx8J" group-title="SPORTS", MATCH! FUTBOL 1 HD (Ukraine) 
+http://188.35.9.14:2010
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sh2baiX" group-title="SPORTS", MATCH! FUTBOL 2 HD (Ukraine) 
+http://188.35.9.14:2011
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2VPm2MK" group-title="SPORTS", MATCH! FUTBOL 3 HD (Ukraine) 
+http://188.35.9.14:2012
+
+#EXTINF:-1 tvg-logo="https://imgur.com/T8rNx8J" group-title="SPORTS", MATCH! FUTBOL 1 (Ukraine) 
+http://188.35.9.14:2025
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sh2baiX" group-title="SPORTS", MATCH! FUTBOL 2 (Ukraine) 
+http://188.35.9.14:2026
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2VPm2MK" group-title="SPORTS", MATCH! FUTBOL 3 (Ukraine) 
+http://188.35.9.14:2027
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="SPORTS",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
