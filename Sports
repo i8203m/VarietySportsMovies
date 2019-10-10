@@ -1,6 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/SEc9xa7" group-title="SPORTS", Sky Sports Main Event
+https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g2/maineventss.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zs7djX9" group-title="SPORTS", Sky Sports Premier League
+https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g3/sspl.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nv89giH.jpg" group-title="SPORTS", ESPN
 http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6nU6n7r" group-title="SPORTS", BT Sport ESPN 
+https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S1wPph3" group-title="SPORTS", BT Sport 1 (UK)
+https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g2/btuk1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S1wPph3" group-title="SPORTS", BT Sport 2 (UK)
+https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g3/ukbt2sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S1wPph3" group-title="SPORTS", BT Sport 3 (UK)
+https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g6/3btsporteu.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="SPORTS",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
