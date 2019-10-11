@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://www.nbc.com/generetic/images/nbc_logo_og.jpg" group-title="Variety - 综艺",USA NBC
 http://161.0.157.9/PLTV/88888888/224/3221227040/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkYnyLv.png" group-title="Variety - 综艺",TLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owSaJZ0.png" group-title="Variety - 综艺",TLC
 http://80.80.160.168/live/2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FtblIUL.png" group-title="Variety - 综艺",Comedy Central (UK)
@@ -12,7 +12,7 @@ http://enndy.live:2015/live/mustafa/21062019/1870.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1AKkVl.png" group-title="Variety - 综艺",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" group-title="Variety - 综艺",Create and Craft (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJXKboo.jpg" group-title="Variety - 综艺",Create and Craft (UK)
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nbc.com/generetic/images/nbc_logo_og.jpg" group-title="Variety - 综艺",USA NBC (Opt.1)
