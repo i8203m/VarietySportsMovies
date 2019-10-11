@@ -1,9 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SEc9xa7.png" group-title="SPORTS", Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6AYP5M.png" group-title="SPORTS", Sky Sports MAIN EVENT
 https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g2/maineventss.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zs7djX9.png" group-title="SPORTS", Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHlpvmv.png" group-title="SPORTS", Sky Sports PREMIER LEAGUE
 https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g3/sspl.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mHWgcuX.png" group-title="SPORTS", Sky Sports NEWS
+http://enndy.live:2015/live/mustafa/21062019/1830.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntThaPc.png" group-title="SPORTS", Sky Sports Sky Sports ARENA
+http://enndy.live:2015/live/mustafa/21062019/1886.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5BORJn.png" group-title="SPORTS", Sky Sports FOOTBALL
+http://enndy.live:2015/live/mustafa/21062019/1832.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV
 http://enndy.live:2015/live/mustafa/21062019/25.ts
@@ -38,9 +47,6 @@ http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 1 HD 
 http://188.35.9.14:21081/udp/098t 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A2dYCTo.png" group-title="SPORTS", FANATIK TV
-http://bdmsat.com:25461/canak/1234/22110
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MwzlEWy.jpg" group-title="SPORTS", S SPORT HD
 http://enndy.live:2015/live/mustafa/21062019/10.ts
 
@@ -58,9 +64,6 @@ http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/144/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="SPORTS",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ukPntzj.jpg" group-title="SPORTS",Setanta Qazaqstan
-https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g5/setqz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOMdggu.jpg" group-title="SPORTS", Setanta Sports (Ukraine)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/272/index.m3u8
@@ -172,3 +175,15 @@ https://ott-live.olympicchannel.com/out/u/OC4_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="SPORTS",Olympic Channel 5 (SD)
 https://ott-live.olympicchannel.com/out/u/OC5_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohLuXAb.png" group-title="SPORTS", Sky Sports F1
+http://enndy.live:2015/live/mustafa/21062019/1833.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHlpvmv.png" group-title="SPORTS", Sky Sports PREMIER LEAGUE (Opt#2)
+http://enndy.live:2015/live/mustafa/21062019/1829.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/leblJpK.png" group-title="SPORTS", Sky Sports PREMIER SPORTS 2
+http://enndy.live:2015/live/mustafa/21062019/1858.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dMt4pv.png" group-title="SPORTS", Sky Sports CRICKET
+http://enndy.live:2015/live/mustafa/21062019/1834.ts
