@@ -8,6 +8,12 @@ https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g3/sspl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV
 http://enndy.live:2015/live/mustafa/21062019/25.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WwKMWb.png" group-title="SPORTS", Fox-Sport-1-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/113.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WwKMWb.png" group-title="SPORTS", Fox-Sport-2-HD
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/139.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nv89giH.jpg" group-title="SPORTS", ESPN
 http://80.80.160.168/live/6/live.m3u8
 
