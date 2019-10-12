@@ -29,20 +29,32 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6nU6n7r.png" group-title="SPORTS", BT Sport ESPN 
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 1 (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 1 (Eng)
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g2/btuk1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 2 (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 2 (Eng)
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g3/ukbt2sport.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 3 (UK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 3 (Eng)
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g6/3btsporteu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 9 HD (Eng)
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/57.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 11 HD (Eng)
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/4.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 12 HD (Eng)
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/87.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 1  
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 2 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 2 HD
 http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 2 (#Opt2)
+http://109.248.236.41:4433/udp/238.1.1.115:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 1 HD 
 http://188.35.9.14:21081/udp/098t 
@@ -68,10 +80,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOMdggu.jpg" group-title="SPORTS", Setanta Sports (Ukraine)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/272/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yhQWFRX.png" group-title="SPORTS", Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOMdggu.jpg" group-title="SPORTS", Setanta Sports 1 HD
 http://92.43.140.249/s81/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yhQWFRX.png" group-title="SPORTS", Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOMdggu.jpg" group-title="SPORTS", Setanta Sports 2 HD
 http://92.43.140.249/s82/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovFA3Zf.jpg" group-title="SPORTS", Super Tennis 
@@ -86,6 +98,9 @@ http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/802/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eLgFEk.png" group-title="SPORTS", CANAL+ Sport4 HD (Poland)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/803/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 4K (外语)
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/68.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 1 HD (Qatar)
 https://goool7.ws/lba/YjcwZjRjNzg5MWIwMTg1MzRhMTA1M2MzZTk3OTYxYzQ=/g5/beinsport1tur.m3u8
 
@@ -94,6 +109,12 @@ https://mmm.sportbox.ws/lba/OGE4NDQ4MGUyYWI4YTdlYTgwYTgwMDBhZDJhNjgxMzc=/g4/turb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 3 HD (Qatar)
 https://goool7.ws/lba/YjcwZjRjNzg5MWIwMTg1MzRhMTA1M2MzZTk3OTYxYzQ=/g5/beinsport1tur.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 8 HD (外语)
+http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/56.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 10 HD (外语)
+http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/201.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZREYna.png" group-title="SPORTS", M. Deportes HD (Spain)
 http://188.35.9.14:21031/udp/106z
