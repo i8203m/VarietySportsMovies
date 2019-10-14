@@ -17,6 +17,12 @@ http://enndy.live:2015/live/mustafa/21062019/1832.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV
 http://enndy.live:2015/live/mustafa/21062019/25.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Opt#2)
+http:\\nitro.ltd:25461\demo\demo\1470
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Op5#3)
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5387
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8WwKMWb.png" group-title="SPORTS", Fox-Sport-1-HD
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/113.ts
 
@@ -24,7 +30,13 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/113.ts
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/139.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nv89giH.jpg" group-title="SPORTS", ESPN
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/872
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nv89giH.jpg" group-title="SPORTS", ESPN (Opt#2)
 http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nv89giH.jpg" group-title="SPORTS", ESPN 2
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5386
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6nU6n7r.png" group-title="SPORTS", BT Sport ESPN 
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
@@ -38,6 +50,9 @@ https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g3/ukbt2sport
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S1wPph3.png" group-title="SPORTS", BT Sport 3 (Eng)
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g6/3btsporteu.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O02zjUL.png" group-title="SPORTS", NBC Sports
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2864
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 9 HD (Eng)
 http://185.180.221.217:2082/live/4lkjlksd_hlhjfklsdfdfd/6OoVFXJeKU/57.ts
 
@@ -46,6 +61,9 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/4.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 12 HD (Eng)
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/87.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports USA HD
+http:\\client-proiptv.com:8080\EX-KINGiptvPKf\Gyh4AZD064gOIf58F\5391
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 1  
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
@@ -71,6 +89,9 @@ https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w80998
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifc4hb9.jpg" group-title="SPORTS",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZJgSr1.png" group-title="SPORTS",NFL Network
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2863
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yTDJm61.png" group-title="SPORTS",Extreme Sports 
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/144/index.m3u8
 
@@ -88,6 +109,9 @@ http://92.43.140.249/s82/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovFA3Zf.jpg" group-title="SPORTS", Super Tennis 
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g5/itsupertennis.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VA9GcYE.png" group-title="SPORTS", USA Tennis HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5407
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eLgFEk.png" group-title="SPORTS", CANAL+ Sport HD  (Poland)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/801/index.m3u8
