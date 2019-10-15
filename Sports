@@ -14,20 +14,26 @@ http://enndy.live:2015/live/mustafa/21062019/1886.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5BORJn.png" group-title="SPORTS", Sky Sports FOOTBALL
 http://enndy.live:2015/live/mustafa/21062019/1832.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aMJjgD0.jpg" group-title="SPORTS", Sports Illustrated TV
+http://nitro.ltd:25461/demo/demo/36950
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV
-http://enndy.live:2015/live/mustafa/21062019/25.ts
+http://nitro.ltd:25461/demo/demo/41386
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Opt#2)
-http:\\nitro.ltd:25461\demo\demo\1470
+http://nitro.ltd:25461/demo/demo/1470
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Op5#3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Op#3)
 http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5387
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8WwKMWb.png" group-title="SPORTS", Fox-Sport-1-HD
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/113.ts
+EXTINF:-1 tvg-logo="https:// i.imgur.com/8WwKMWb.png" group-title="SPORTS",Fox Soccer Plus 
+http://nitro.ltd:25461/demo/demo/19851
+
+#EXTINF:-1 tvg-logo="https:// i.imgur.com/8WwKMWb.png" group-title="SPORTS",Fox-Sport-1-HD
+http://nitro.ltd:25461/demo/demo/5505
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8WwKMWb.png" group-title="SPORTS", Fox-Sport-2-HD
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/139.ts
+http://nitro.ltd:25461/demo/demo/5506
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nv89giH.jpg" group-title="SPORTS", ESPN
 http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/872
@@ -63,7 +69,7 @@ http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/4.ts
 http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/87.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports USA HD
-http:\\client-proiptv.com:8080\EX-KINGiptvPKf\Gyh4AZD064gOIf58F\5391
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5391
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 1  
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
@@ -175,6 +181,9 @@ http://188.35.9.14:2026
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2VPm2MK.png" group-title="SPORTS", MATCH! FUTBOL 3 (Ukraine) 
 http://188.35.9.14:2027
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="SPORTS",Olympic USA
+http://nitro.ltd:25461/demo/demo/5487
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="SPORTS",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
