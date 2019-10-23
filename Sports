@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6AYP5M.png" group-title="SPORTS", Sky Sports MAIN EVENT
-https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g2/maineventss.m3u8
+http://impulsetv.org:25461/a/a/25170
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHlpvmv.png" group-title="SPORTS", Sky Sports PREMIER LEAGUE
 https://mmm.sportbox.ws/lba/NjgwYmU4ZThjNDdmY2Q2MjhmYjhiNjg4NmE1MzhjY2M=/g3/sspl.m3u8
@@ -14,6 +14,9 @@ http://enndy.live:2015/live/mustafa/21062019/1886.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5BORJn.png" group-title="SPORTS", Sky Sports FOOTBALL
 http://enndy.live:2015/live/mustafa/21062019/1832.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5BORJn.png" group-title="SPORTS", Sky Sports FOOTBALL (Opt#2)
+http://impulsetv.org:25461/a/a/7951
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMJjgD0.jpg" group-title="SPORTS", Sports Illustrated TV
 http://nitro.ltd:25461/demo/demo/36950
 
@@ -21,7 +24,7 @@ http://nitro.ltd:25461/demo/demo/36950
 http://nitro.ltd:25461/demo/demo/41386
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Opt#2)
-http://nitro.ltd:25461/demo/demo/1470
+http://impulsetv.org:25461/a/a/1470
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Op#3)
 http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5387
@@ -118,6 +121,12 @@ https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g5/itsuperten
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VA9GcYE.png" group-title="SPORTS", USA Tennis HD
 http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5407
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDrlBgy.png" group-title="SPORTS", True Tennis
+https://live.youlive-cdn.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/logo.png" group-title="SPORTS", 博斯魅力網
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eLgFEk.png" group-title="SPORTS", CANAL+ Sport HD  (Poland)
 http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/801/index.m3u8
