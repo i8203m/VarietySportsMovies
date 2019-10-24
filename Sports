@@ -122,6 +122,9 @@ https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g5/itsuperten
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VA9GcYE.png" group-title="SPORTS", USA Tennis HD
 http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5407
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDrlBgy.png" group-title="SPORTS", True Tennis
 https://live.youlive-cdn.com/02_TennisHD_720p/chunklist.m3u8
 
