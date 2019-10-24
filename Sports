@@ -23,6 +23,9 @@ http://nitro.ltd:25461/demo/demo/36950
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Oct2019)
 https://live.youlive-cdn.com/02_nbahd_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Oct2019)
+http://fast.iptv.cab:80/IH3EXegkBz/2ui256W37e/8132
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV
 http://nitro.ltd:25461/demo/demo/41386
 
