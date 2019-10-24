@@ -20,6 +20,9 @@ http://impulsetv.org:25461/a/a/7951
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMJjgD0.jpg" group-title="SPORTS", Sports Illustrated TV
 http://nitro.ltd:25461/demo/demo/36950
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Oct2019)
+https://live.youlive-cdn.com/02_nbahd_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV
 http://nitro.ltd:25461/demo/demo/41386
 
