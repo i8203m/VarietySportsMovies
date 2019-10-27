@@ -30,6 +30,15 @@ https://live.youlive-cdn.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Oct2019)
 http://fast.iptv.cab:80/IH3EXegkBz/2ui256W37e/8132
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", Sky Sports NBA TV (Oct28)
+http://dgtstreams.live:80/live/ONRRD34HZM/vIiyYqpH65/122.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", Sky Sports NBA TV (Oct28)
+http://cdn01.flashweb.org:15800/live/parrcus/29092019/41659.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5BORJn.png" group-title="SPORTS", Sky Sport Football Full HD
+http://dgtstreams.live:80/live/ONRRD34HZM/vIiyYqpH65/120.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifc4hb9.jpg" group-title="SPORTS",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
