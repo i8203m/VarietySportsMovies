@@ -18,9 +18,6 @@ http://nitro.ltd:25461/demo/demo/19662
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OPDXuFm.jpg" group-title="Movies - 电影、剧集", Paramount Network (Opt#2 )
 http://nitro.ltd:25461/demo/demo/1432
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",香港电影频道
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.meituan.net/csc/87fb8a18d3ded5ad09a01c6c9667fe9a7237.jpg" group-title="Movies - 电影、剧集", NewTV精品电影
 http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
 
