@@ -47,3 +47,17 @@ http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lizhizu.com/uploads/images/20180620/542f47e85c271e780d21b97b63190d39.jpg" group-title="Variety - 综艺", NewTV金牌综艺
 http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9Nhief.png" group-title="YouTube News",Australia ABC
+https://www.YouTube News.com/watch?v=nu3iXDR7iXo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9Nhief.png" group-title="YouTube News",Sky News (UK)
+https://www.YouTube News.com/watch?v=zg_YUu2JzEA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9Nhief.png" group-title="YouTube News",Bloomberg Global
+https://www.YouTube News.com/watch?v=dp8PhLsUcFE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9Nhief.png" group-title="YouTube News",Channel News Asia
+https://www.YouTube News.com/watch?v=JvZVnBn6zEI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9Nhief.png" group-title="YouTube News",Al Jazeera
+https://www.YouTube News.com/watch?v=jL8uDJJBjMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9Nhief.png" group-title="YouTube News",France 24 English
+https://www.YouTube News.com/watch?v=0fKyrdQ15gs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9Nhief.png" group-title="YouTube News",RT News
+https://www.YouTube News.com/watch?v=NvCSr7qzAAM
