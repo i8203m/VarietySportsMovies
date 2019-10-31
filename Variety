@@ -3,41 +3,26 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2YE28s.jpg" group-title="Variety - 综艺",USA NBC
 http://161.0.157.9/PLTV/88888888/224/3221227040/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owSaJZ0.png" group-title="Variety - 综艺",TLC
-http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTcqgCs.png" group-title="Variety - 综艺",DIVA (ID)
+http://198.13.61.196/nodavid/simple/vurt%20SERVER/id_komp.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owSaJZ0.png" group-title="Variety - 综艺",TLC East HD
-http://nitro.ltd:25461/demo/demo/5892
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJ8Pbe.jpg" group-title="Variety - 综艺",Comedy Central (UK)
-http://enndy.live:2015/live/mustafa/21062019/1870.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJ8Pbe.jpg" group-title="Variety - 综艺",Comedy Central (USA)
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5242
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJ8Pbe.jpg" group-title="Variety - 综艺",Comedy Central (USA) (Opt#2)
-http://nitro.ltd:25461/demo/demo/2105
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rf1vBhg.png" group-title="Variety - 综艺",Justice Central (USA) 
-http://nitro.ltd:25461/demo/demo/41404
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8zihxq.png" group-title="Variety - 综艺", HBO Signature HD
-http://nitro.ltd:25461/demo/demo/5880
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZXvTNh.png" group-title="Variety - 综艺", Crime & Investigation
-http://nitro.ltd:25461/demo/demo/22428
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foM2R9N.png" group-title="Variety - 综艺",DIY Network
-http://nitro.ltd:25461/demo/demo/3673
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foM2R9N.png" group-title="Variety - 综艺",DIY Network (Opt#2)
-http://nitro.ltd:25461/demo/demo/11567
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2YE28s.jpg" group-title="Variety - 综艺",DIVA
+http://210.210.155.35/uq2663/h/h11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1AKkVl.png" group-title="Variety - 综艺",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SJXKboo.jpg" group-title="Variety - 综艺",Create and Craft (UK)
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owSaJZ0.png" group-title="Variety - 综艺",TLC
+http://80.80.160.168/live/2/500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZXvTNh.png" group-title="Variety - 综艺", Crime & Investigation
+http://nitro.ltd:25461/demo/demo/22428
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foM2R9N.png" group-title="Variety - 综艺",DIY Network
+http://nitro.ltd:25461/demo/demo/3673
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2YE28s.jpg" group-title="Variety - 综艺",USA NBC (Opt.1)
 http://161.0.157.9/PLTV/88888888/224/3221227040/03.m3u8
