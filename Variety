@@ -5,6 +5,8 @@ http://161.0.157.9/PLTV/88888888/224/3221227040/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ey89hx.png" group-title="Variety - 综艺",DIVA
 http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ey89hx.png" group-title="Variety - 综艺",DIVA
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1AKkVl.png" group-title="Variety - 综艺",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
