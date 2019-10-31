@@ -27,8 +27,8 @@ http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Movies - 电影、剧集",Hollywood Movies 9
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rezcrwf.png" group-title="Movies - 电影、剧集",Warner TV (Thai)
-https://live.we-play.tv/app/warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSA5OjQ1OjQ1IEFNJmhhc2hfdmFsdWU9TWVDR1BLMGJSTk1oZjZTSFJwclJ6QT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="" group-title="Movies - 电影、剧集",CELESTIAL MOVIES ID
+http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://pic.616pic.com/ys_bnew_img/00/35/45/Z12QmaCVgR.jpg" group-title="Movies - 电影、剧集",中文电影 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
