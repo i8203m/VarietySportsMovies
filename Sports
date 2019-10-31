@@ -15,7 +15,7 @@ https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w80998
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1mN7VmX.jpg" group-title="SPORTS", NewTV 精品体育
 http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1mN7VmX.jpg" group-title="SPORTS", NewTV 育超级体育
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mN7VmX.jpg" group-title="SPORTS", NewTV 超级体育
 http://111.40.205.83/wh7f454c46tw3444762182_1347457362/PLTV/88888888/224/3221225715/index.m3u8
 
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="SPORTS", CCTV-5 体育
@@ -24,17 +24,11 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="SPORTS", CCTV-5+ 体育赛事
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KbPwG4Z.png" group-title="SPORTS", Channel 9 Sports, Chicago
-http://27.147.156.14:1935/Channel-9/Channel-9.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GghpWM3.png" group-title="SPORTS", ESPN
 https://cvtv.cvalley.net/hls/ESPNHD/pkgESPNLo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GghpWM3.png" group-title="SPORTS", ESPN 2
 https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Horizon Sports (buffering)
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5BORJn.png" group-title="SPORTS", Sky Sport Football Full HD
 http://dgtstreams.live:80/live/ONRRD34HZM/vIiyYqpH65/120.ts
@@ -51,6 +45,15 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="SPORTS",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh232bR.jpg" group-title="SPORTS", Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", World of Free Sports 
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOMdggu.jpg" group-title="SPORTS", Setanta Sports 1 HD
 http://92.43.140.249/s81/04.m3u8
 
@@ -61,25 +64,15 @@ http://92.43.140.249/s82/04.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 11 
-http://mu02.v2iptv.com:8880/YKLM692/1234567/2130
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 11 
 http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/21.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 12 
 http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/23.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 1 HD (Qatar)
-https://goool7.ws/lba/YjcwZjRjNzg5MWIwMTg1MzRhMTA1M2MzZTk3OTYxYzQ=/g5/beinsport1tur.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 3 HD (Qatar)
-https://goool7.ws/lba/YjcwZjRjNzg5MWIwMTg1MzRhMTA1M2MzZTk3OTYxYzQ=/g5/beinsport1tur.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TCuT8zw.jpg" group-title="SPORTS", Belarus Channel 5 HD 
 http://178.124.183.12/hls/JRKVSUPCP8/bw5000000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS", Fox Sports NEWS (AU)
-
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="SPORTS",Olympic Channel 1 (UHD)
@@ -87,9 +80,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BDrlBgy.png" group-title="SPORTS", True Tennis
-https://live.youlive-cdn.com/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/logo.png" group-title="SPORTS", 博斯魅力網
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
