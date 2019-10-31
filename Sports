@@ -69,6 +69,12 @@ http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/21.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 12 
 http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/23.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 11 
+http://tvapp1.com:80/JwkRavKK0C/uNOpNduh2D/27891
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 12 
+http://tvapp1.com:80/JwkRavKK0C/uNOpNduh2D/63876
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TCuT8zw.jpg" group-title="SPORTS", Belarus Channel 5 HD 
 http://178.124.183.12/hls/JRKVSUPCP8/bw5000000/playlist.m3u8
 
