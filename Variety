@@ -3,38 +3,33 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2YE28s.jpg" group-title="Variety - 综艺",USA NBC
 http://161.0.157.9/PLTV/88888888/224/3221227040/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ey89hx.png" group-title="Variety - 综艺",DIVA
-http://210.210.155.35/uq2663/h/h11/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ey89hx.png" group-title="Variety - 综艺",DIVA
-http://45.126.83.51/uq2663/h/h11/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1AKkVl.png" group-title="Variety - 综艺",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SJXKboo.jpg" group-title="Variety - 综艺",Create and Craft (UK)
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owSaJZ0.png" group-title="Variety - 综艺",TLC
-http://iptv-line.com:7899/-mac/fYLkczeLEW/50038
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5u7zc7c.png" group-title="Variety - 综艺",KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvLyprH.png" group-title="Variety - 综艺",English Club
 http://ott-cdn.ucom.am/s37/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZXvTNh.png" group-title="Variety - 综艺", Crime & Investigation
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/557
+http://203.154.243.31:15001
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foM2R9N.png" group-title="Variety - 综艺",DIY Network
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/533
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Variety - 综艺",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oog4qvf.jpg" group-title="Variety - 综艺",DocuBOX Live
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryNBKC3.jpg" group-title="Variety - 综艺", NewTV精品记录
+http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryNBKC3.jpg" group-title="Variety - 综艺", NewTV金牌综艺
+http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0511KF.png" group-title="Variety - 综艺",Mafa Short Flim
+https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2YE28s.jpg" group-title="Variety - 综艺",USA NBC (Opt.1)
 http://161.0.157.9/PLTV/88888888/224/3221227040/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG" group-title="Variety - 综艺", NewTV精品记录
-http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.lizhizu.com/uploads/images/20180620/542f47e85c271e780d21b97b63190d39.jpg" group-title="Variety - 综艺", NewTV金牌综艺
-http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
 
