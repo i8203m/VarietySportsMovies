@@ -3,17 +3,14 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6nU6n7r.png" group-title="SPORTS", BT Sport ESPN 
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 2 HD
-http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 2 (#Opt2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPziKRD.png" group-title="SPORTS", Eurosport 2 
 http://109.248.236.41:4433/udp/238.1.1.115:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ATHszM.jpg" group-title="SPORTS", All Sports TV 
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w809987188.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1mN7VmX.jpg" group-title="SPORTS", NewTV 精品体育
-http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+http://223.110.242.131:6610/cntv/live1/jtiyu/jtiyu
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1mN7VmX.jpg" group-title="SPORTS", NewTV 超级体育
 http://111.40.205.83/wh7f454c46tw3444762182_1347457362/PLTV/88888888/224/3221225715/index.m3u8
@@ -23,21 +20,6 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8
 
 #EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="SPORTS", CCTV-5+ 体育赛事
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GghpWM3.png" group-title="SPORTS", ESPN
-https://cvtv.cvalley.net/hls/ESPNHD/pkgESPNLo.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GghpWM3.png" group-title="SPORTS", ESPN 2
-https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O5BORJn.png" group-title="SPORTS", Sky Sport Football Full HD
-http://dgtstreams.live:80/live/ONRRD34HZM/vIiyYqpH65/120.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", Sky Sports NBA TV (Oct28)
-http://dgtstreams.live:80/live/ONRRD34HZM/vIiyYqpH65/122.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFKmK5A.jpg" group-title="SPORTS", NBA TV (Oct31)
-http://23.237.22.82:8086/udp/127.0.0.1:56052
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifc4hb9.jpg" group-title="SPORTS",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
@@ -63,38 +45,26 @@ http://92.43.140.249/s82/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxJBRdg.png" group-title="SPORTS", Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 11 
-http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/21.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 12 
-http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/23.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 11 
-http://tvapp1.com:80/JwkRavKK0C/uNOpNduh2D/27891
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCZMQZn.png" group-title="SPORTS", Bein Sports 12 
-http://tvapp1.com:80/JwkRavKK0C/uNOpNduh2D/63876
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TCuT8zw.jpg" group-title="SPORTS", Belarus Channel 5 HD 
-http://178.124.183.12/hls/JRKVSUPCP8/bw5000000/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS", Fox Sports NEWS (AU)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="SPORTS",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erl6NnZ.png" group-title="SPORTS", ATP Tennis
+http://203.154.243.89:11739
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel 2
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel 3
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 #EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/logo.png" group-title="SPORTS", 博斯魅力網
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="SPORTS", CCTV-5 Plus 体育赛事
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DB819BCU319E204BKB3129E30I222CBBCAP8M340BDC5V0Z334B7W15D218A113665BEB&playtoken=ABCDEFGHI&auth=no&rate=sd&programid=4200000087.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", 广州竞赛
-https://aplay.gztv.com/sec/jingsai.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDPt7AN.jpg" group-title="SPORTS",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
