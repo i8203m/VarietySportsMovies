@@ -27,9 +27,6 @@ http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Movies - 电影、剧集",Hollywood Movies 9
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies - 电影、剧集",CELESTIAL MOVIES ID
-http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
-
 #EXTINF:-1 tvg-logo="http://pic.616pic.com/ys_bnew_img/00/35/45/Z12QmaCVgR.jpg" group-title="Movies - 电影、剧集",中文电影 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 
@@ -66,13 +63,13 @@ http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lankutv.com/upload/vod/2019-02-02/201902021549099139.png" group-title="Movies - 电影、剧集", NewTV海外剧场
 http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG" group-title="Movies - 电影、剧集", NewTV惊悚悬疑
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryNBKC3.jpg" group-title="Movies - 电影、剧集", NewTV惊悚悬疑
 http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lizhizu.com/uploads/images/20180620/0eb6fd0d8d739ecdf4e75971e45ca757.jpg" group-title="Movies - 电影、剧集", NewTV明星大片
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryNBKC3.jpg" group-title="Movies - 电影、剧集", NewTV明星大片
 http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG" group-title="Movies - 电影、剧集", NewTV动画王国
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryNBKC3.jpg" group-title="Movies - 电影、剧集", NewTV动画王国
 http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lankutv.com/upload/vod/2019-02-02/201902021549098936.jpg" group-title="Movies - 电影、剧集", NewTV古装剧场
@@ -81,38 +78,24 @@ http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/42185178674.jpg" group-title="Movies - 电影、剧集", NewTV动作电影
 http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.guojitv.com/tv/upfile/689c4fb0-8e45-412d-82a4-45d76e8e2f6c.jpg" group-title="Movies - 电影、剧集",星空卫视 3
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
-
-#EXTINF:-1 tvg-logo="https://imagev2.xmcdn.com/group22/M02/E2/8C/wKgJLljCOxzxn3dtAAJBT_PdfmE638.jpg" group-title="Movies - 电影、剧集",经典粤语喜剧片
-http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/ChowKL1_%28cropped%29.JPG" group-title="Movies - 电影、剧集",周星弛电影台HD
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="Movies - 电影、剧集",中文剧集 01
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 
-#EXTINF:tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="Movies - 电影、剧集",台 HBO SD
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="Movies - 电影、剧集",中文剧集 02
+https://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qTjnWHA.jpg" group-title="Movies - 电影、剧集", USA HBO 2
-http://161.0.157.9/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="Movies - 电影、剧集",中文剧集 03
+https://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Biz2HKn.jpg" group-title="Movies - 电影、剧集", Sony Movies HD
-http://nitro.ltd:25461/demo/demo/19725
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="Movies - 电影、剧集",中文剧集 04
+https://aldirect.hls.huya.com/huyalive/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pmh0MqP.png" group-title="Movies - 电影、剧集", USA Network
-http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="Movies - 电影、剧集",中文剧集 05
+https://aldirect.hls.huya.com/huyalive/28466698-2689664106-11552019372495077376-3049003110-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OPDXuFm.jpg" group-title="Movies - 电影、剧集", Paramount Network 
-http://nitro.ltd:25461/demo/demo/19662
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="Movies - 电影、剧集",中文剧集 06
+https://aldirect.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OPDXuFm.jpg" group-title="Movies - 电影、剧集", Paramount Network (Opt#2 )
-http://nitro.ltd:25461/demo/demo/1432
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="Movies - 电影、剧集",中文剧集 07
+https://aldirect.hls.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qTjnWHA.jpg" group-title="Movies - 电影、剧集", USA HBO 2 (Opt.1)
-http://161.0.157.9/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qTjnWHA.jpg" group-title="Movies - 电影、剧集", USA HBO 2 (Opt.2)
-http://161.0.157.9/PLTV/88888888/224/3221227026/index.m3u8
