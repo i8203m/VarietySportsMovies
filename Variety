@@ -21,6 +21,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oog4qvf.jpg" group-title="Variety - 综艺",DocuBOX Live
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZrVaojz.png" group-title="Variety - 综艺",TBS HD
+http://vvn.neoredi.com/iptv/ch3509?code=590138456678768&key=35342
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1YCfqZ.jpg" group-title="Variety - 综艺",TNT HD
+http://vvn.neoredi.com/iptv/ch3508?code=590138456678768&key=38265
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3hX3v6u.png" group-title="Variety - 综艺",FOX HD
+http://vvn.neoredi.com/iptv/ch3520?code=590138456678768&key=38096
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLGCjOV.png" group-title="Variety - 综艺",AMC HD
+http://vvn.neoredi.com/iptv/ch3528?code=590138456678768&key=46099
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ryNBKC3.jpg" group-title="Variety - 综艺", NewTV精品记录
 http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
 
