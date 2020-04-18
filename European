@@ -1,1 +1,88 @@
-ssa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yweQGcr.png" group-title="Europe",Swiss QS24
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJYmcJi.png" group-title="Europe",Swiss Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dw7sa3O.png" group-title="Europe",Swiss Tele M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmfgBrg.png" group-title="Europe", Austria M4
+https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYE0aq4.png" group-title="Europe",Austria P3tv
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0Im9sF.png" group-title="Europe",Austria R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist_w870289389_b2112000_slger.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SSDLpPU.png" group-title="Europe",Austria RTS Salzburg
+http://lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlNzOWy.png" group-title="Europe",Austria Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAXabXy.png" group-title="Europe",Sweden Di TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kt88QxS.png" group-title="Europe",Sweden Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvwiSqt.png" group-title="Europe",Sweden TV 4
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="Europe",Belgium ATV
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Europe",Belgium LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBsuQ1G.png" group-title="Europe",Belgium Matele
+https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="Europe",Belgium TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="Europe",Belgium TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="Europe",France BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0wgzN59.png" group-title="Europe",France TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pZluyZ0.png" group-title=""Europe",France TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAWwl5T.png" group-title="Europe",France TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v5wx5yZ.png" group-title="Europe",France viaVosges
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NliaZhK.png" group-title="Europe",Denmark KVF
+https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3l1GvEk.png" group-title="Europe",Denmark TV2 Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eYHfrEi.png" group-title="Europe",Denmark TV Aarhus
+https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYR0o7O.png" group-title="Europe",Denmark TV Midtvest
+https://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t/EG-gDRIyoxKp9xWooxW-8w/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uaLbCES.png" group-title="Europe",Denmark TV Syd
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BO9f3sD.png" group-title="Europe",Norway Fatstone TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="Europe",Iceland N4
+http://tv.vodafoneplay.is/n4/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9M7hsjR.png" group-title="Europe",Iceland RUV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mulwQ2u.png" group-title="Europe",Iceland RUV 2
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DezlOqt.png" group-title="Europe",Germany BLK TV Hohenmölsen
+http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Europe",Germany Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRNtpKZ.png" group-title="Europe",Germany Elbekanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Europe",Germany Filstalwelle
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcIQqtL.png" group-title="Europe",Germany Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="Europe",Germany Friesischer Rundfunk
+http://58e5fdd27293a.streamlock.net:1935/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/44baHUT.png" group-title="Europe",Germany Isar TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dputoRM.png" group-title="Europe",Germany Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dputoRM.png" group-title="Europe",Germany Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jDEpyJW.png" group-title="Europe",Germany Oberpfalz TV
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HHZdrCJ.png" group-title="Europe",Germany Offener Kanal Dessau
+http://62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHTsPMP.png" group-title="Europe",Germany Offener Kanal Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VznJYCD.png" group-title="Europe",Germany Offener Kanal Merseburg
+http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCqVWjw.png" group-title="Europe",Germany OK4 Koblenz
+http://stream-cdn.ok54.de/hls/ok4.m3u8?fluxustv.m3u8
