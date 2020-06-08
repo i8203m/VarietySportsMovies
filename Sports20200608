@@ -1,0 +1,47 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1we4qW0.jpg" group-title="SPORTS",CCTV-5+ 体育赛事
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/HhEARia.jpg" group-title="SPORTS", CCTV-5 体育
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Htykv6z.jpg" group-title="SPORTS",NewTV 中国功夫
+http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AZub76U.jpg" group-title="SPORTS",NewTV 武搏世界
+http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3lnkQQ6.jpg" group-title="SPORTS",NewTV 精品体育
+http://111.40.205.76/PLTV/88888888/224/3221225674/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78iaSNV.jpg" group-title="SPORTS",NewTV 超级体育
+http://111.40.205.83/wh7f454c46tw3444762182_1347457362/PLTV/88888888/224/3221225715/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgIk1ZX.png" group-title="SPORTS",劲爆体育
+https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyANNHn.png" group-title="SPORTS", 博斯魅力網
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh232bR.jpg" group-title="SPORTS", Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", World of Free Sports 
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="SPORTS",Olympic Channel 1 (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erl6NnZ.png" group-title="SPORTS", ATP Tennis
+http://203.154.243.89:11739
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel 2
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JtTdoVh.png" group-title="SPORTS", The Tennis Channel 3
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
