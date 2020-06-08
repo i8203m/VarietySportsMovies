@@ -48,5 +48,11 @@ https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvLyprH.png" group-title="Variety - 综艺",English Club
 http://ott-cdn.ucom.am/s37/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHPnmPd.png" group-title="Variety - 综艺",Lifetime
+http://live.highstream.club/live/Lifetime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwGEZs5.png" group-title="Variety - 综艺",Longhorn Network
+http://live.highstream.club/live/lghl/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2YE28s.jpg" group-title="Variety - 综艺",USA NBC (Opt.1)
 http://161.0.157.9/PLTV/88888888/224/3221227040/03.m3u8
