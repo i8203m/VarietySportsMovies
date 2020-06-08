@@ -1,0 +1,50 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2YE28s.jpg" group-title="Variety - 综艺",USA NBC
+http://161.0.157.9/PLTV/88888888/224/3221227040/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PI74lAt.png" group-title="Variety - 综艺",Hallmark Channel
+http://live.highstream.club/live/Hallmark/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJdMOH3.png" group-title="Variety - 综艺",TLC
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrKpY8o.png" group-title="Variety - 综艺",truTV
+http://live.highstream.club/live/TruTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tuZrnn.png" group-title="Variety - 综艺",BBC 1
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GGYcSFN.png" group-title="Variety - 综艺",BBC 2
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PigHdN2.png" group-title="Variety - 综艺",BBC 4
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYyvdX1.jpg" group-title="Variety - 综艺",BBC Lifestyle
+https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZXvTNh.png" group-title="Variety - 综艺", Crime & Investigation
+http://203.154.243.31:15001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="Variety - 综艺", Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Variety - 综艺",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryNBKC3.jpg" group-title="Variety - 综艺", NewTV精品记录
+http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryNBKC3.jpg" group-title="Variety - 综艺", NewTV金牌综艺
+http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1AKkVl.png" group-title="Variety - 综艺",The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJXKboo.jpg" group-title="Variety - 综艺",Create and Craft (UK)
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fvLyprH.png" group-title="Variety - 综艺",English Club
+http://ott-cdn.ucom.am/s37/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2YE28s.jpg" group-title="Variety - 综艺",USA NBC (Opt.1)
+http://161.0.157.9/PLTV/88888888/224/3221227040/03.m3u8
