@@ -9,6 +9,9 @@ http://live.highstream.club/live/Hallmark/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJdMOH3.png" group-title="Variety - 综艺",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B1AZNK9.png" group-title="Variety - 综艺",Food Channel
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrKpY8o.png" group-title="Variety - 综艺",truTV
 http://live.highstream.club/live/TruTV/playlist.m3u8
 
